@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Product Information Lister</string>
+    <string name="name">Product Expiry Data</string>
+    <string name="intro">\nThis application is created by Aadil Khalil Baig on the 18/06/2021 and it keeps track of the electronic items and their expiry date.\n</string>
+    <string name="web">https://github.com/AppMaster07</string>
+    <string-array name="spinnerToDo">
+        <item>Add new data</item>
+        <item>Update a data</item>
+        <item>Remove a data</item>
+    </string-array>
+    <string-array name="spinnerExpiry">
+        <item>1 month</item>
+        <item>3 month</item>
+        <item>6 month</item>
+        <item>All</item>
+    </string-array>
+</resources>
